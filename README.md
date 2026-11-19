@@ -101,4 +101,4 @@ The analysis pipeline works and every number is reproducible, but **this dataset
 Power BI dashboard on top of `results/`; revenue and churn analysis using `revenue`; weather impact on rides; automated servicing alerts for bikes above the 90th-percentile repair count.
 
 ---
-**Author:** `<Your Name>` ·  [LinkedIn](https://www.linkedin.com/in/abhishak-khandelwal/) · MBA (Manipal University Jaipur) · Data Analyst
+**Author:** `<Abhishak Khandelwal>` ·  [LinkedIn](https://www.linkedin.com/in/abhishak-khandelwal/) · MBA (Manipal University Jaipur) · Data Analyst
