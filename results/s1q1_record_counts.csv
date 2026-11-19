@@ -1,0 +1,8 @@
+Table_Name,Total_Records,Expected_Min_Records,Expected_Volume_Verified
+Bike Trips,50000,20000,Yes
+Users,5000,1000,Yes
+Stations,200,100,Yes
+Bikes,1000,500,Yes
+Weather,8760,8760,Yes
+Maintenance,10000,5000,Yes
+Revenue,5000,1000,Yes

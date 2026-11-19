@@ -1,0 +1,3 @@
+Table_Name,Rows_Before,Rows_After,Rows_Removed
+trips,50000,50000,0
+stations,200,200,0

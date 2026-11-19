@@ -1,0 +1,11 @@
+Column_Name,Missing_Values,Percentage_Missing,Impact_Level
+Trip_ID,0,0.000,Low
+User_ID,0,0.000,Low
+Bike_ID,0,0.000,Low
+Start_Station_ID,0,0.000,Low
+End_Station_ID,0,0.000,Low
+Start_Time,0,0.000,Low
+End_Time,0,0.000,Low
+Trip_Duration_Min,0,0.000,Low
+Distance_KM,0,0.000,Low
+Ride_Type,0,0.000,Low

@@ -1,0 +1,14 @@
+Check_Name,Rows_Found
+Duplicate Trip_ID,0
+Duplicate on Trip_ID+Start_Time+User_ID+Bike_ID,0
+Negative Trip_Duration_Min,0
+End_Time before Start_Time,0
+Duration does not match timestamps,0
+Distance <= 0 km,0
+Trips pointing to a missing user,0
+Trips pointing to a missing bike,0
+Trips pointing to a missing start station,0
+Trips pointing to a missing end station,0
+Same bike in two overlapping trips (pairs),148
+Same user in two overlapping trips (pairs),24
+Trip Ride_Type differs from user Subscription_Type,31901

@@ -1,0 +1,11 @@
+City,Day_Type,Total_Rides,Avg_Trip_Duration
+Boston,Weekend,3076,32.42
+Boston,Weekday,7519,31.87
+Chicago,Weekend,2341,32.59
+Chicago,Weekday,5762,31.76
+New York,Weekend,2981,31.72
+New York,Weekday,7609,32.17
+San Francisco,Weekend,2634,31.94
+San Francisco,Weekday,6164,31.65
+Seattle,Weekend,3474,32.01
+Seattle,Weekday,8440,32.10

@@ -1,0 +1,21 @@
+Station_Name,Peak_Usage_Hour,Total_Ride_During_Peak,Unusual_Peak_Pattern,Night_Zone_Flag
+Station 112,14,24,Yes,-
+Station 114,10,23,Yes,-
+Station 36,9,22,No,-
+Station 148,3,22,Yes,Night-peak zone
+Station 188,1,22,Yes,Night-peak zone
+Station 197,3,22,Yes,Night-peak zone
+Station 35,5,21,Yes,-
+Station 113,13,21,Yes,-
+Station 117,6,21,Yes,-
+Station 125,14,21,Yes,-
+Station 145,14,21,Yes,-
+Station 157,20,21,Yes,-
+Station 168,19,21,No,-
+Station 5,2,20,Yes,Night-peak zone
+Station 19,1,20,Yes,Night-peak zone
+Station 44,5,20,Yes,-
+Station 48,5,20,Yes,-
+Station 53,3,20,Yes,Night-peak zone
+Station 65,0,20,Yes,Night-peak zone
+Station 95,18,20,No,-

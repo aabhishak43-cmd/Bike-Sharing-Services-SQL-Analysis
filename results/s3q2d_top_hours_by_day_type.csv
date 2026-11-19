@@ -1,0 +1,7 @@
+Day_Type,Hour_of_Day,Total_Rides,Hour_Rank
+Weekend,13,658,1
+Weekend,1,645,2
+Weekend,2,640,3
+Weekday,11,1523,1
+Weekday,4,1516,2
+Weekday,8,1514,3

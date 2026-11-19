@@ -1,0 +1,16 @@
+Bike_ID,Bike_Type,Total_Trips,Avg_Trip_Distance,Avg_Ride_Duration,Maintenance_Count,Total_Downtime_Hours,Risk_Flag
+971,Standard,39,5.49,29.82,20,534,At Risk
+504,Standard,54,5.49,30.65,20,472,At Risk
+394,Standard,57,5.06,32.86,20,439,Normal
+726,Electric,49,4.92,35.00,20,452,Normal
+760,Standard,44,4.78,29.77,20,596,Normal
+605,Electric,40,5.8,31.50,19,407,At Risk
+387,Standard,54,5.66,32.65,19,352,At Risk
+324,Standard,68,5.53,31.28,19,510,At Risk
+601,Standard,49,5.28,30.39,19,443,At Risk
+911,Electric,40,5.15,33.68,19,469,Normal
+347,Electric,50,5.09,29.86,19,462,Normal
+525,Electric,55,5.03,30.00,19,400,Normal
+220,Electric,50,4.92,30.68,19,498,Normal
+594,Standard,44,6.15,31.05,18,497,At Risk
+255,Standard,56,5.68,32.18,18,476,At Risk
